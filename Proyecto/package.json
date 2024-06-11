@@ -2,7 +2,7 @@
     "name": "proyecto",
     "version": "1.0.0",
     "description": "Proyecto de gestión de empleados",
-    "main": "server.js",
+    "main": "index.js",
     "scripts": {
         "start": "node index.js"
     },
